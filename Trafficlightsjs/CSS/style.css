@@ -1,0 +1,53 @@
+.div1
+{
+    height: 80vh;
+    width: 10vw;
+    background-color: black;
+    margin-left: 490px;
+    margin-top: 50px;
+    border-radius: 60px;
+}
+
+.btn1
+{
+    width: 60px;
+    height: 10vh;
+    margin-left: 32px;
+    margin-top: 50px;
+    border-radius: 50px;
+}
+
+.btn2
+{
+    width: 60px;
+    height: 10vh;
+    margin-left: 32px;
+    margin-top: 90px;
+    border-radius: 50px;
+}
+
+.btn3
+{
+    width: 60px;
+    height: 10vh;
+    margin-left: 32px;
+    margin-top: 90px;
+    border-radius: 50px;
+}
+
+.h1
+{
+    text-align: center;
+    margin-left: -130px;
+    color: blueviolet;
+}
+
+.go
+{
+    margin-left: 300px;
+    width:60px;
+    height: 60px;
+    margin-top: 20px;
+    
+}
+
